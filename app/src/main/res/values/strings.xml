@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="delete_success">Images was deleted!</string>
+    <string name="delete_failure">Image deletion failed</string>
+    <string name="saved_message">Image Saved at %1$s</string>
+    <string name="not_saved">Image not saved!</string>
+    <string name="error">Error finding image</string>
+    <string name="take_photo">Take a photo</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="imageview_description">The imageview that contains the Weather data and user picture</string>
+    <string name="facebook_app_id">817803525068267</string>
+    <string name="fb_login_protocol_scheme">fb817803525068267</string>
+    <string name="share_on_twitter">Share on Twitter</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">xPxwxPK0yUVtLVl3wppvKHViJ</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">	1Bh3LuYDDJMJuURuZsjYKp8lovoDahYZOMmo2GVo33robEkWzL</string>
+    <string name="enable_gps">enable Gps</string>
+    <string name="go_to_gps">Go to Gps!</string>
+    <string name="cancel">Cancel!</string>
+
+
+</resources>

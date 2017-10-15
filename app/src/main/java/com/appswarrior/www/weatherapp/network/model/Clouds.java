@@ -1,0 +1,24 @@
+package com.appswarrior.www.weatherapp.network.model;
+
+/**
+ * Created by Eman Essam on 14/10/2017.
+ */
+
+import com.google.gson.annotations.Expose;
+import com.google.gson.annotations.SerializedName;
+
+public class Clouds {
+
+    @SerializedName("all")
+    @Expose
+    private Integer all;
+
+    public Integer getAll() {
+        return all;
+    }
+
+    public void setAll(Integer all) {
+        this.all = all;
+    }
+
+}
